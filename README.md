@@ -9,20 +9,18 @@ This article describes how to implement an on-premises issue on Azure Virtual Ma
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- osTicket
+- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Open HeidiSQL
+- Create a Script to Change Admin's passwords
+- Manually change Agent's passwords
 
 <h2>Deployment and Configuration Steps</h2>
 
