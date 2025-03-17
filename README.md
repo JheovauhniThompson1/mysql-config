@@ -3,7 +3,7 @@
 </p>
 
 <h1>Troubleshooting Account Lockouts in Microsoft Azure Virtual Machine with HeidiSQL</h1>
-This article describes how to implement an on-premises issue on Azure Virtual Machines and includes a real-world debugging example using HeidiSQL.<br />
+This article describes how I sovled a in real-time issue on Azure Virtual Machines using HeidiSQL.<br />
 
 <h2>Environments and Technologies Used</h2>
 
